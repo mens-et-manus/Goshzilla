@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 4ae77c8b810f1b84b90962701201d171
+timeCreated: 1484245351
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Capot
+    100004: 'Carosserie '
+    100006: Carosserie .001
+    100008: Carosserie .002
+    100010: Carosserie .003
+    100012: Carosserie .004
+    100014: Carosserie .005
+    100016: Carosserie .006
+    100018: Carosserie .007
+    100020: Carosserie .008
+    100022: Carosserie _MeshPart0
+    100024: Carosserie _MeshPart1
+    100026: Circle
+    100028: Circle.001
+    100030: Circle.002
+    100032: Circle.003
+    100034: Circle.003_MeshPart0
+    100036: Circle.003_MeshPart1
+    100038: Circle.004
+    100040: Circle.005
+    100042: Circle.006
+    100044: Circle.007
+    100046: Circle.008
+    100048: Circle.009
+    100050: Circle.010
+    100052: Circle.011
+    100054: Circle.012
+    100056: Circle.013
+    100058: Circle.014
+    100060: Circle.024
+    100062: Circle.029
+    100064: Circle.030
+    100066: Coffre
+    100068: Cube.002
+    100070: Cylinder
+    100072: Icosphere
+    100074: Icosphere.001
+    100076: Icosphere.003
+    100078: Plane
+    100080: Plane.001
+    100082: Plane.002
+    100084: Plane.003
+    100086: Plane.004
+    100088: Plane.005
+    100090: Plane.007
+    100092: Plane.008
+    100094: Portes
+    100096: //RootNode
+    100098: Text
+    400000: Camera
+    400002: Capot
+    400004: 'Carosserie '
+    400006: Carosserie .001
+    400008: Carosserie .002
+    400010: Carosserie .003
+    400012: Carosserie .004
+    400014: Carosserie .005
+    400016: Carosserie .006
+    400018: Carosserie .007
+    400020: Carosserie .008
+    400022: Carosserie _MeshPart0
+    400024: Carosserie _MeshPart1
+    400026: Circle
+    400028: Circle.001
+    400030: Circle.002
+    400032: Circle.003
+    400034: Circle.003_MeshPart0
+    400036: Circle.003_MeshPart1
+    400038: Circle.004
+    400040: Circle.005
+    400042: Circle.006
+    400044: Circle.007
+    400046: Circle.008
+    400048: Circle.009
+    400050: Circle.010
+    400052: Circle.011
+    400054: Circle.012
+    400056: Circle.013
+    400058: Circle.014
+    400060: Circle.024
+    400062: Circle.029
+    400064: Circle.030
+    400066: Coffre
+    400068: Cube.002
+    400070: Cylinder
+    400072: Icosphere
+    400074: Icosphere.001
+    400076: Icosphere.003
+    400078: Plane
+    400080: Plane.001
+    400082: Plane.002
+    400084: Plane.003
+    400086: Plane.004
+    400088: Plane.005
+    400090: Plane.007
+    400092: Plane.008
+    400094: Portes
+    400096: //RootNode
+    400098: Text
+    2300000: Capot
+    2300002: Carosserie .001
+    2300004: Carosserie .002
+    2300006: Carosserie .003
+    2300008: Carosserie .004
+    2300010: Carosserie .005
+    2300012: Carosserie .006
+    2300014: Carosserie .007
+    2300016: Carosserie .008
+    2300018: Carosserie _MeshPart0
+    2300020: Carosserie _MeshPart1
+    2300022: Circle
+    2300024: Circle.001
+    2300026: Circle.002
+    2300028: Circle.003_MeshPart0
+    2300030: Circle.003_MeshPart1
+    2300032: Circle.004
+    2300034: Circle.005
+    2300036: Circle.006
+    2300038: Circle.007
+    2300040: Circle.008
+    2300042: Circle.009
+    2300044: Circle.010
+    2300046: Circle.011
+    2300048: Circle.012
+    2300050: Circle.013
+    2300052: Circle.014
+    2300054: Circle.024
+    2300056: Circle.029
+    2300058: Circle.030
+    2300060: Coffre
+    2300062: Cube.002
+    2300064: Cylinder
+    2300066: Icosphere
+    2300068: Icosphere.001
+    2300070: Icosphere.003
+    2300072: Plane
+    2300074: Plane.001
+    2300076: Plane.002
+    2300078: Plane.003
+    2300080: Plane.004
+    2300082: Plane.005
+    2300084: Plane.007
+    2300086: Plane.008
+    2300088: Portes
+    2300090: Text
+    3300000: Capot
+    3300002: Carosserie .001
+    3300004: Carosserie .002
+    3300006: Carosserie .003
+    3300008: Carosserie .004
+    3300010: Carosserie .005
+    3300012: Carosserie .006
+    3300014: Carosserie .007
+    3300016: Carosserie .008
+    3300018: Carosserie _MeshPart0
+    3300020: Carosserie _MeshPart1
+    3300022: Circle
+    3300024: Circle.001
+    3300026: Circle.002
+    3300028: Circle.003_MeshPart0
+    3300030: Circle.003_MeshPart1
+    3300032: Circle.004
+    3300034: Circle.005
+    3300036: Circle.006
+    3300038: Circle.007
+    3300040: Circle.008
+    3300042: Circle.009
+    3300044: Circle.010
+    3300046: Circle.011
+    3300048: Circle.012
+    3300050: Circle.013
+    3300052: Circle.014
+    3300054: Circle.024
+    3300056: Circle.029
+    3300058: Circle.030
+    3300060: Coffre
+    3300062: Cube.002
+    3300064: Cylinder
+    3300066: Icosphere
+    3300068: Icosphere.001
+    3300070: Icosphere.003
+    3300072: Plane
+    3300074: Plane.001
+    3300076: Plane.002
+    3300078: Plane.003
+    3300080: Plane.004
+    3300082: Plane.005
+    3300084: Plane.007
+    3300086: Plane.008
+    3300088: Portes
+    3300090: Text
+    4300000: Circle.012
+    4300002: Circle.011
+    4300004: Circle.008
+    4300006: Circle.007
+    4300008: Circle.004
+    4300010: Circle.001
+    4300012: Plane.008
+    4300014: Plane.007
+    4300016: Plane.001
+    4300018: Plane.004
+    4300020: Plane.003
+    4300022: Plane
+    4300024: Circle.030
+    4300026: Circle.029
+    4300028: Plane.005
+    4300030: Carosserie .008
+    4300032: Carosserie .007
+    4300034: Cylinder
+    4300036: Carosserie .006
+    4300038: Circle.024
+    4300040: Icosphere.003
+    4300042: Cube.002
+    4300044: Circle.014
+    4300046: Circle.010
+    4300048: Circle.013
+    4300050: Circle.009
+    4300052: Circle.006
+    4300054: Text
+    4300056: Circle.005
+    4300058: Circle
+    4300060: Carosserie .005
+    4300062: Carosserie .004
+    4300064: Circle.003_MeshPart0
+    4300066: Circle.003_MeshPart1
+    4300068: Carosserie .003
+    4300070: Plane.002
+    4300072: Icosphere.001
+    4300074: Icosphere
+    4300076: Carosserie .001
+    4300078: Carosserie .002
+    4300080: Coffre
+    4300082: Portes
+    4300084: Carosserie _MeshPart0
+    4300086: Carosserie _MeshPart1
+    4300088: Capot
+    4300090: Circle.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
