@@ -85,8 +85,8 @@ public class MovementController : MonoBehaviour {
     }
     void Update()
     {
-        distance = godzilla.transform.position - originalDistance;
-        distanceTravelled.text = "Distance Travelled: " + Mathf.Round(distance.sqrMagnitude).ToString();
+       // distance = godzilla.transform.position - originalDistance;
+       // distanceTravelled.text = "Distance Travelled: " + Mathf.Round(distance.sqrMagnitude).ToString();
     }
 
     void FixedUpdate()
