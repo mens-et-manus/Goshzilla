@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/MiniGame.unity
+- path: D:/Downloads/Goshzilla/GoshzillaUnity/Assets/_Scenes/MiniGame.unity
   isLoaded: 1
   isActive: 1

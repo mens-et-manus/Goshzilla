@@ -8,7 +8,7 @@ public class MovementController : MonoBehaviour {
 	public Component godzilla;
 
     //add end point
-
+    public AudioSource otherClip;
 
     //private Rigidbody rb;
     private int buildingCount;
@@ -47,27 +47,32 @@ public class MovementController : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
+        
         if (other.gameObject.CompareTag("Building"))
         {
             Destroy(other.gameObject);
+            otherClip.Play();
             buildingCount += 1;
             updateScores(1);
         }
         else if (other.gameObject.CompareTag("People"))
         {
             Destroy(other.gameObject);
+            otherClip.Play();
             peopleCount += 1;
             updateScores(2);
         }
         else if (other.gameObject.CompareTag("Car"))
         {
             Destroy(other.gameObject);
+            otherClip.Play();
             carCount += 1;
             updateScores(3);
         }
         else if (other.gameObject.CompareTag("City Element"))
         {
             Destroy(other.gameObject);
+            otherClip.Play();
             cityElementCount += 1;
             updateScores(4);
         }
