@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoshzillaUnity.CSharp.Plugins", "GoshzillaUnity.CSharp.Plugins.csproj", "{36F95844-2BEF-A782-813A-63FFE3E393E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoshzillaUnity.CSharp", "GoshzillaUnity.CSharp.csproj", "{AEB25036-ACF3-70ED-C3B6-EB66DC796B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoshzillaUnity.CSharp.Editor.Plugins", "GoshzillaUnity.CSharp.Editor.Plugins.csproj", "{A4B30AF1-6447-7D8E-1E34-9CB206265703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F95844-2BEF-A782-813A-63FFE3E393E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F95844-2BEF-A782-813A-63FFE3E393E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F95844-2BEF-A782-813A-63FFE3E393E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F95844-2BEF-A782-813A-63FFE3E393E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB25036-ACF3-70ED-C3B6-EB66DC796B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB25036-ACF3-70ED-C3B6-EB66DC796B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB25036-ACF3-70ED-C3B6-EB66DC796B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB25036-ACF3-70ED-C3B6-EB66DC796B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B30AF1-6447-7D8E-1E34-9CB206265703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B30AF1-6447-7D8E-1E34-9CB206265703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B30AF1-6447-7D8E-1E34-9CB206265703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B30AF1-6447-7D8E-1E34-9CB206265703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
